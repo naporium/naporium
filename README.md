@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @falafias
+- 👋 Hi, I’m @naporium
 - 👀 I’m interested in Switching to a Career in IT.
 - 🌱 I’m currently learning Python, Databases and Git.
 - 💞️ I’m looking to collaborate on projects related to the __Green Economy__ and the __green new deal__.
