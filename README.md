@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @naporium
-- 👀 I’m interested in Switching to a Career in IT.
-- 🌱 I’m currently learning Python, Databases and Git.
-- 💞️ I’m looking to collaborate on projects related to the __Green Economy__ and the __green new deal__.
+- 👀 I’m interested
+- 🌱 I’m currently learning Python, Git, bash, ansible, jenkins
 - 📫 How to reach me: __nm.10000.testes@gmail.com__<br>
           I will have no problem deleting this email account if I start receiving spam.
 
