@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @naporium
-- 👀 I’m interested
+- 👋 Hi, I’m @naporium 
 - 🌱 I’m currently learning Python, Git, bash, ansible, jenkins
 - 📫 How to reach me: __nm.10000.testes@gmail.com__<br>
           I will have no problem deleting this email account if I start receiving spam.
