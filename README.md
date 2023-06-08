@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naporium 
-- 🌱 I’m currently learning Agile, Python, Git, Bash, Ansible, Jenkins, Docker
+- 🌱 I’m currently learning ________
 - 📫 How to reach me: __nm.10000.testes@gmail.com__<br>
           I will have no problem deleting this email account if I start receiving spam.
 
