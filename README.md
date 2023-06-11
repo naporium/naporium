@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naporium 
-- 🌱 I’m currently learning ________
+- 🌱 I’m currently learning .
 - 📫 How to reach me: __nm.10000.testes@gmail.com__<br>
           I will have no problem deleting this email account if I start receiving spam.
 
